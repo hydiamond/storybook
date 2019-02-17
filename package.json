@@ -21,5 +21,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@storybook/react": "^4.1.11",
+    "babel-loader": "^8.0.5"
+  }
 }
